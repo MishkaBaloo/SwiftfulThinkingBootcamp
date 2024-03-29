@@ -1,5 +1,5 @@
 //
-//  Text bootcamp.swift
+//  TextBootcamp.swift
 //  SwiftUIstudy
 //
 //  Created by user on 29.03.2024.
