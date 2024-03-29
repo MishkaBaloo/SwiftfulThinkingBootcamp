@@ -11,6 +11,7 @@
 		CE5DB8CF2BB5FA870081B4A2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5DB8CE2BB5FA870081B4A2 /* ContentView.swift */; };
 		CE5DB8D12BB5FA880081B4A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE5DB8D02BB5FA880081B4A2 /* Assets.xcassets */; };
 		CE5DB8D42BB5FA880081B4A2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE5DB8D32BB5FA880081B4A2 /* Preview Assets.xcassets */; };
+		CECB568E2BB7345700116B0B /* Text bootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECB568D2BB7345700116B0B /* Text bootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CE5DB8CE2BB5FA870081B4A2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CE5DB8D02BB5FA880081B4A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE5DB8D32BB5FA880081B4A2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CECB568D2BB7345700116B0B /* Text bootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Text bootcamp.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CE5DB8CC2BB5FA870081B4A2 /* SwiftUIstudyApp.swift */,
 				CE5DB8CE2BB5FA870081B4A2 /* ContentView.swift */,
+				CECB568D2BB7345700116B0B /* Text bootcamp.swift */,
 				CE5DB8D02BB5FA880081B4A2 /* Assets.xcassets */,
 				CE5DB8D22BB5FA880081B4A2 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CECB568E2BB7345700116B0B /* Text bootcamp.swift in Sources */,
 				CE5DB8CF2BB5FA870081B4A2 /* ContentView.swift in Sources */,
 				CE5DB8CD2BB5FA870081B4A2 /* SwiftUIstudyApp.swift in Sources */,
 			);
