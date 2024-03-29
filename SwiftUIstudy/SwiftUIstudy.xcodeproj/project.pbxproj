@@ -11,9 +11,9 @@
 		CE5DB8CF2BB5FA870081B4A2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5DB8CE2BB5FA870081B4A2 /* ContentView.swift */; };
 		CE5DB8D12BB5FA880081B4A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE5DB8D02BB5FA880081B4A2 /* Assets.xcassets */; };
 		CE5DB8D42BB5FA880081B4A2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE5DB8D32BB5FA880081B4A2 /* Preview Assets.xcassets */; };
-		CECB568E2BB7345700116B0B /* Text bootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECB568D2BB7345700116B0B /* Text bootcamp.swift */; };
-		CECB56902BB741DE00116B0B /* Shapes bootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECB568F2BB741DE00116B0B /* Shapes bootcamp.swift */; };
-		CECB56922BB74A5000116B0B /* Colors bootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECB56912BB74A5000116B0B /* Colors bootcamp.swift */; };
+		CECB568E2BB7345700116B0B /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECB568D2BB7345700116B0B /* TextBootcamp.swift */; };
+		CECB56902BB741DE00116B0B /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECB568F2BB741DE00116B0B /* ShapesBootcamp.swift */; };
+		CECB56922BB74A5000116B0B /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECB56912BB74A5000116B0B /* ColorsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,9 +22,9 @@
 		CE5DB8CE2BB5FA870081B4A2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CE5DB8D02BB5FA880081B4A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE5DB8D32BB5FA880081B4A2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		CECB568D2BB7345700116B0B /* Text bootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Text bootcamp.swift"; sourceTree = "<group>"; };
-		CECB568F2BB741DE00116B0B /* Shapes bootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Shapes bootcamp.swift"; sourceTree = "<group>"; };
-		CECB56912BB74A5000116B0B /* Colors bootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Colors bootcamp.swift"; sourceTree = "<group>"; };
+		CECB568D2BB7345700116B0B /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
+		CECB568F2BB741DE00116B0B /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
+		CECB56912BB74A5000116B0B /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,9 +59,9 @@
 			children = (
 				CE5DB8CC2BB5FA870081B4A2 /* SwiftUIstudyApp.swift */,
 				CE5DB8CE2BB5FA870081B4A2 /* ContentView.swift */,
-				CECB568D2BB7345700116B0B /* Text bootcamp.swift */,
-				CECB568F2BB741DE00116B0B /* Shapes bootcamp.swift */,
-				CECB56912BB74A5000116B0B /* Colors bootcamp.swift */,
+				CECB568D2BB7345700116B0B /* TextBootcamp.swift */,
+				CECB568F2BB741DE00116B0B /* ShapesBootcamp.swift */,
+				CECB56912BB74A5000116B0B /* ColorsBootcamp.swift */,
 				CE5DB8D02BB5FA880081B4A2 /* Assets.xcassets */,
 				CE5DB8D22BB5FA880081B4A2 /* Preview Content */,
 			);
@@ -146,10 +146,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CECB568E2BB7345700116B0B /* Text bootcamp.swift in Sources */,
-				CECB56902BB741DE00116B0B /* Shapes bootcamp.swift in Sources */,
+				CECB568E2BB7345700116B0B /* TextBootcamp.swift in Sources */,
+				CECB56902BB741DE00116B0B /* ShapesBootcamp.swift in Sources */,
 				CE5DB8CF2BB5FA870081B4A2 /* ContentView.swift in Sources */,
-				CECB56922BB74A5000116B0B /* Colors bootcamp.swift in Sources */,
+				CECB56922BB74A5000116B0B /* ColorsBootcamp.swift in Sources */,
 				CE5DB8CD2BB5FA870081B4A2 /* SwiftUIstudyApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

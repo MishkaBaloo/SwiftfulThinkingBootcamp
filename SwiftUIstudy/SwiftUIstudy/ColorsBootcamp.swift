@@ -1,5 +1,5 @@
 //
-//  Colors bootcamp.swift
+//  ColorsBootcamp.swift
 //  SwiftUIstudy
 //
 //  Created by user on 29.03.2024.

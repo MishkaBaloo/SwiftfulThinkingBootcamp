@@ -1,5 +1,5 @@
 //
-//  Shapes bootcamp.swift
+//  ShapesBootcamp.swift
 //  SwiftUIstudy
 //
 //  Created by user on 29.03.2024.
