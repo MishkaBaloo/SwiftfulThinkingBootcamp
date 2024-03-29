@@ -10,10 +10,26 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
+           Image(systemName: "globe")
+            .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("world!")
+            Text("Hello, everyone!")
+                .fontWeight(.black)
+                .foregroundColor(Color.purple)
+            Image(systemName: "globe")
+             .imageScale(.large)
+                 .foregroundStyle(.tint)
+            Text("New try")
+                .font(.subheadline)
+                .fontWeight(.black)
+                .foregroundColor(Color.blue)
+            Text(/*@START_MENU_TOKEN@*/"Placeholder"/*@END_MENU_TOKEN@*/)
+                .font(.subheadline)
+                .fontWeight(.ultraLight)
+                .foregroundColor(Color.orange)
+                
+                
+            
         }
         .padding()
     }
