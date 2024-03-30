@@ -1,5 +1,5 @@
 //
-//  TestToAddSymbolsWithotApp.swift
+//  SymbolsTag.swift
 //  SwiftUIstudy
 //
 //  Created by user on 30.03.2024.
