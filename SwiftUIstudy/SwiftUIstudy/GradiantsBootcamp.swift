@@ -13,7 +13,7 @@ struct GradiantsBootcamp: View {
             .fill(
                 //Color.red
                 //(press "command" and "/" on keyboard to do all selected cod as comment
-                //Under this coment is solution to can't use Lineargradiant from lessons
+                //Under this coment is solution to can't use Lineargradiant in new Xcode from lessons
 //           LinearGradient(colors:
 //            [Color(uiColor: #colorLiteral(red: 0.2392156869, green: 0.6745098233, blue: 0.9686274529, alpha: 1)), Color(uiColor: #colorLiteral(red: 0.2196078449, green: 0.007843137719, blue: 0.8549019694, alpha: 1))],
 //                startPoint: .leading,
