@@ -24,6 +24,7 @@
 		CECB568E2BB7345700116B0B /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECB568D2BB7345700116B0B /* TextBootcamp.swift */; };
 		CECB56902BB741DE00116B0B /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECB568F2BB741DE00116B0B /* ShapesBootcamp.swift */; };
 		CECB56922BB74A5000116B0B /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECB56912BB74A5000116B0B /* ColorsBootcamp.swift */; };
+		CEF48C732BBED3CF0089BA4A /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF48C722BBED3CF0089BA4A /* InitializerBootcamp.swift */; };
 		CEF8D7742BB8AC69007029F0 /* ImageToSymbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF8D7732BB8AC69007029F0 /* ImageToSymbols.swift */; };
 		CEF8D7762BB8AEDE007029F0 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF8D7752BB8AEDE007029F0 /* FrameBootcamp.swift */; };
 /* End PBXBuildFile section */
@@ -47,6 +48,7 @@
 		CECB568D2BB7345700116B0B /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		CECB568F2BB741DE00116B0B /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		CECB56912BB74A5000116B0B /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
+		CEF48C722BBED3CF0089BA4A /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
 		CEF8D7732BB8AC69007029F0 /* ImageToSymbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageToSymbols.swift; sourceTree = "<group>"; };
 		CEF8D7752BB8AEDE007029F0 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -98,6 +100,7 @@
 				CE4EFF902BB9FA2100EC71B6 /* StackWithText.swift */,
 				CE957FA02BBB54340093B03A /* PaddingBotcamp.swift */,
 				CE0A7A2A2BBEA32D00B894EF /* SpacerBootcamp.swift */,
+				CEF48C722BBED3CF0089BA4A /* InitializerBootcamp.swift */,
 				CE5DB8D02BB5FA880081B4A2 /* Assets.xcassets */,
 				CE5DB8D22BB5FA880081B4A2 /* Preview Content */,
 			);
@@ -189,6 +192,7 @@
 				CEF8D7742BB8AC69007029F0 /* ImageToSymbols.swift in Sources */,
 				CE0A9D372BB894240059C22B /* Iconsbootcamp.swift in Sources */,
 				CE0A9D352BB88B500059C22B /* GradiantsBootcamp.swift in Sources */,
+				CEF48C732BBED3CF0089BA4A /* InitializerBootcamp.swift in Sources */,
 				CE5DB8CF2BB5FA870081B4A2 /* ContentView.swift in Sources */,
 				CEF8D7762BB8AEDE007029F0 /* FrameBootcamp.swift in Sources */,
 				CECB56922BB74A5000116B0B /* ColorsBootcamp.swift in Sources */,
