@@ -24,9 +24,9 @@ struct GradiantsBootcamp: View {
 //                    startRadius: 5,
 //                    endRadius: 400)
                 AngularGradient(
-                    gradient: Gradient(colors: [Color(uiColor: #colorLiteral(red: 0.8078431487, green: 0.02745098062, blue: 0.3333333433, alpha: 1)), Color(uiColor: #colorLiteral(red: 0.2196078449, green: 0.007843137719, blue: 0.8549019694, alpha: 1))]),
+                    gradient: Gradient(colors: [Color(uiColor: #colorLiteral(red: 0.9686274529, green: 0.78039217, blue: 0.3450980484, alpha: 1)), Color(uiColor: #colorLiteral(red: 0.8078431487, green: 0.02745098062, blue: 0.3333333433, alpha: 1))]),
                     center: .topLeading,
-                    angle: .degrees(180 + 45))
+                    angle: .degrees(360 + 25))
         )
             .frame(width: 300, height: 200)
     }
