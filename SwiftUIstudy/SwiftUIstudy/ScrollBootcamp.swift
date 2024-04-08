@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ScrollBootcamp: View {
     var body: some View {
-        ScrollView{
+        ScrollView(.vertical, showsIndicators: false){
             LazyVStack{
                 ForEach(0..<10) { index in
                     ScrollView(.horizontal, showsIndicators: false) {
