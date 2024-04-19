@@ -23,6 +23,7 @@
 		CE4EFF8F2BB9F57E00EC71B6 /* StackOnStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4EFF8E2BB9F57E00EC71B6 /* StackOnStack.swift */; };
 		CE4EFF912BB9FA2100EC71B6 /* StackWithText.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4EFF902BB9FA2100EC71B6 /* StackWithText.swift */; };
 		CE4EFF952BB9FB4700EC71B6 /* StackBootcamp (V,H,Z).swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4EFF942BB9FB4700EC71B6 /* StackBootcamp (V,H,Z).swift */; };
+		CE58A5B92BD2F07000EDCF03 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE58A5B82BD2F06F00EDCF03 /* PopoverBootcamp.swift */; };
 		CE5DB8CD2BB5FA870081B4A2 /* SwiftUIstudyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5DB8CC2BB5FA870081B4A2 /* SwiftUIstudyApp.swift */; };
 		CE5DB8CF2BB5FA870081B4A2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5DB8CE2BB5FA870081B4A2 /* ContentView.swift */; };
 		CE5DB8D12BB5FA880081B4A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE5DB8D02BB5FA880081B4A2 /* Assets.xcassets */; };
@@ -60,6 +61,7 @@
 		CE4EFF8E2BB9F57E00EC71B6 /* StackOnStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackOnStack.swift; sourceTree = "<group>"; };
 		CE4EFF902BB9FA2100EC71B6 /* StackWithText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackWithText.swift; sourceTree = "<group>"; };
 		CE4EFF942BB9FB4700EC71B6 /* StackBootcamp (V,H,Z).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "StackBootcamp (V,H,Z).swift"; sourceTree = "<group>"; };
+		CE58A5B82BD2F06F00EDCF03 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		CE5DB8C92BB5FA870081B4A2 /* SwiftUIstudy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIstudy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE5DB8CC2BB5FA870081B4A2 /* SwiftUIstudyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIstudyApp.swift; sourceTree = "<group>"; };
 		CE5DB8CE2BB5FA870081B4A2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 				CE38629B2BD2A5A000B7AEF7 /* AnimationTimingBootcamp.swift */,
 				CE037BDD2BD2C49200AAA012 /* TransitionBootcamp.swift */,
 				CE037BDF2BD2CB0D00AAA012 /* SheetsBootcamp.swift */,
+				CE58A5B82BD2F06F00EDCF03 /* PopoverBootcamp.swift */,
 				CE5DB8D02BB5FA880081B4A2 /* Assets.xcassets */,
 				CE5DB8D22BB5FA880081B4A2 /* Preview Content */,
 			);
@@ -249,6 +252,7 @@
 				CEF48C752BBEE4CD0089BA4A /* ForEachBootcamp.swift in Sources */,
 				CE5DB8CF2BB5FA870081B4A2 /* ContentView.swift in Sources */,
 				CEF8D7762BB8AEDE007029F0 /* FrameBootcamp.swift in Sources */,
+				CE58A5B92BD2F07000EDCF03 /* PopoverBootcamp.swift in Sources */,
 				CECB56922BB74A5000116B0B /* ColorsBootcamp.swift in Sources */,
 				CE4EFF8F2BB9F57E00EC71B6 /* StackOnStack.swift in Sources */,
 				CE8D95E72BB98C650018CDCC /* BackgroundOverlayBootcamp.swift in Sources */,
