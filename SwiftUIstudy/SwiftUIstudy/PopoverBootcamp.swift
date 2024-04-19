@@ -61,7 +61,7 @@ struct PopoverBootcamp: View {
                     .edgesIgnoringSafeArea(.all)
                 
                 Button(action: {
-                    //dismisScreen()
+                    //dismissScreen()
                     showNewScreen.toggle()
                 },label:{
                         Image(systemName: "xmark")
