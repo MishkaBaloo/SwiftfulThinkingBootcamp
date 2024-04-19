@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CE037BDE2BD2C49200AAA012 /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE037BDD2BD2C49200AAA012 /* TransitionBootcamp.swift */; };
+		CE037BE02BD2CB0D00AAA012 /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE037BDF2BD2CB0D00AAA012 /* SheetsBootcamp.swift */; };
 		CE0A7A2B2BBEA32D00B894EF /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A7A2A2BBEA32D00B894EF /* SpacerBootcamp.swift */; };
 		CE0A9D352BB88B500059C22B /* GradiantsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A9D342BB88B500059C22B /* GradiantsBootcamp.swift */; };
 		CE0A9D372BB894240059C22B /* Iconsbootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A9D362BB894240059C22B /* Iconsbootcamp.swift */; };
@@ -44,6 +45,7 @@
 
 /* Begin PBXFileReference section */
 		CE037BDD2BD2C49200AAA012 /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
+		CE037BDF2BD2CB0D00AAA012 /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		CE0A7A2A2BBEA32D00B894EF /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		CE0A9D342BB88B500059C22B /* GradiantsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradiantsBootcamp.swift; sourceTree = "<group>"; };
 		CE0A9D362BB894240059C22B /* Iconsbootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Iconsbootcamp.swift; sourceTree = "<group>"; };
@@ -140,6 +142,7 @@
 				CE3862992BD29FA400B7AEF7 /* AnimationBootcamp.swift */,
 				CE38629B2BD2A5A000B7AEF7 /* AnimationTimingBootcamp.swift */,
 				CE037BDD2BD2C49200AAA012 /* TransitionBootcamp.swift */,
+				CE037BDF2BD2CB0D00AAA012 /* SheetsBootcamp.swift */,
 				CE5DB8D02BB5FA880081B4A2 /* Assets.xcassets */,
 				CE5DB8D22BB5FA880081B4A2 /* Preview Content */,
 			);
@@ -240,6 +243,7 @@
 				CE0A9D372BB894240059C22B /* Iconsbootcamp.swift in Sources */,
 				CE38629C2BD2A5A000B7AEF7 /* AnimationTimingBootcamp.swift in Sources */,
 				CE8EA7352BC4721100A92E56 /* GridBootcamp.swift in Sources */,
+				CE037BE02BD2CB0D00AAA012 /* SheetsBootcamp.swift in Sources */,
 				CE0A9D352BB88B500059C22B /* GradiantsBootcamp.swift in Sources */,
 				CEF48C732BBED3CF0089BA4A /* InitializerBootcamp.swift in Sources */,
 				CEF48C752BBEE4CD0089BA4A /* ForEachBootcamp.swift in Sources */,
