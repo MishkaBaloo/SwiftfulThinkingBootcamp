@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE037BDE2BD2C49200AAA012 /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE037BDD2BD2C49200AAA012 /* TransitionBootcamp.swift */; };
 		CE0A7A2B2BBEA32D00B894EF /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A7A2A2BBEA32D00B894EF /* SpacerBootcamp.swift */; };
 		CE0A9D352BB88B500059C22B /* GradiantsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A9D342BB88B500059C22B /* GradiantsBootcamp.swift */; };
 		CE0A9D372BB894240059C22B /* Iconsbootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0A9D362BB894240059C22B /* Iconsbootcamp.swift */; };
@@ -42,6 +43,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE037BDD2BD2C49200AAA012 /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
 		CE0A7A2A2BBEA32D00B894EF /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		CE0A9D342BB88B500059C22B /* GradiantsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradiantsBootcamp.swift; sourceTree = "<group>"; };
 		CE0A9D362BB894240059C22B /* Iconsbootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Iconsbootcamp.swift; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 				CE3862972BD29B5800B7AEF7 /* TernaryBootcamp.swift */,
 				CE3862992BD29FA400B7AEF7 /* AnimationBootcamp.swift */,
 				CE38629B2BD2A5A000B7AEF7 /* AnimationTimingBootcamp.swift */,
+				CE037BDD2BD2C49200AAA012 /* TransitionBootcamp.swift */,
 				CE5DB8D02BB5FA880081B4A2 /* Assets.xcassets */,
 				CE5DB8D22BB5FA880081B4A2 /* Preview Content */,
 			);
@@ -225,6 +228,7 @@
 				CE0A9D3B2BB8A7870059C22B /* ImageBootcamp.swift in Sources */,
 				CE3862982BD29B5800B7AEF7 /* TernaryBootcamp.swift in Sources */,
 				CE4EFF912BB9FA2100EC71B6 /* StackWithText.swift in Sources */,
+				CE037BDE2BD2C49200AAA012 /* TransitionBootcamp.swift in Sources */,
 				CEBFD0D62BD1C64400D5E4C9 /* ConditionalBootcamp.swift in Sources */,
 				CE7C61912BC2EABB004822DB /* ScrollBootcamp.swift in Sources */,
 				CEC4C8242BC70C2B007B6E23 /* SafeAreaBootcamp.swift in Sources */,
