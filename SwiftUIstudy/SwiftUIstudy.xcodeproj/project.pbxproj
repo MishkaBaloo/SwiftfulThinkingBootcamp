@@ -46,6 +46,7 @@
 		CE8EA7352BC4721100A92E56 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8EA7342BC4721100A92E56 /* GridBootcamp.swift */; };
 		CE957FA12BBB54340093B03A /* PaddingBotcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE957FA02BBB54340093B03A /* PaddingBotcamp.swift */; };
 		CEA543A42BDC1609007705D3 /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA543A32BDC1609007705D3 /* OnAppearBootcamp.swift */; };
+		CEA543A62BDC352C007705D3 /* IfLetGuardBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA543A52BDC352C007705D3 /* IfLetGuardBootcamp.swift */; };
 		CEBFD0D42BD1B74300D5E4C9 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBFD0D32BD1B74300D5E4C9 /* BindingBootcamp.swift */; };
 		CEBFD0D62BD1C64400D5E4C9 /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBFD0D52BD1C64400D5E4C9 /* ConditionalBootcamp.swift */; };
 		CEC4C8242BC70C2B007B6E23 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC4C8232BC70C2B007B6E23 /* SafeAreaBootcamp.swift */; };
@@ -102,6 +103,7 @@
 		CE8EA7342BC4721100A92E56 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 		CE957FA02BBB54340093B03A /* PaddingBotcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBotcamp.swift; sourceTree = "<group>"; };
 		CEA543A32BDC1609007705D3 /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
+		CEA543A52BDC352C007705D3 /* IfLetGuardBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootcamp.swift; sourceTree = "<group>"; };
 		CEBFD0D32BD1B74300D5E4C9 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 		CEBFD0D52BD1C64400D5E4C9 /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
 		CEC4C8232BC70C2B007B6E23 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
@@ -197,6 +199,7 @@
 				CE87F7C02BDBE4D600A695C2 /* DarkModeBootcamp.swift */,
 				CE87F7C22BDBEA1500A695C2 /* DocumentationBootcamp.swift */,
 				CEA543A32BDC1609007705D3 /* OnAppearBootcamp.swift */,
+				CEA543A52BDC352C007705D3 /* IfLetGuardBootcamp.swift */,
 				CE5DB8D02BB5FA880081B4A2 /* Assets.xcassets */,
 				CE5DB8D22BB5FA880081B4A2 /* Preview Content */,
 			);
@@ -281,6 +284,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEA543A62BDC352C007705D3 /* IfLetGuardBootcamp.swift in Sources */,
 				CECB568E2BB7345700116B0B /* TextBootcamp.swift in Sources */,
 				CE0A9D3B2BB8A7870059C22B /* ImageBootcamp.swift in Sources */,
 				CE3862982BD29B5800B7AEF7 /* TernaryBootcamp.swift in Sources */,
