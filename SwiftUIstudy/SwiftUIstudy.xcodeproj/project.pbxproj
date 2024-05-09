@@ -63,6 +63,8 @@
 		CE7518E62BD4439900B4FD5D /* ActionSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7518E52BD4439900B4FD5D /* ActionSheetBootcamp.swift */; };
 		CE76AD742BD95A5800CA6FC8 /* TextFieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76AD732BD95A5800CA6FC8 /* TextFieldBootcamp.swift */; };
 		CE76AD762BD9624200CA6FC8 /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76AD752BD9624200CA6FC8 /* TextEditorBootcamp.swift */; };
+		CE7757582BED1A4C00E6A6F9 /* ContentUnavailableViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7757572BED1A4C00E6A6F9 /* ContentUnavailableViewBootcamp.swift */; };
+		CE77575A2BED1CB700E6A6F9 /* ControlGroupMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7757592BED1CB700E6A6F9 /* ControlGroupMenuBootcamp.swift */; };
 		CE7C61912BC2EABB004822DB /* ScrollBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7C61902BC2EABB004822DB /* ScrollBootcamp.swift */; };
 		CE87F7BD2BDBCD4E00A695C2 /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE87F7BC2BDBCD4E00A695C2 /* SliderBootcamp.swift */; };
 		CE87F7BF2BDBD97300A695C2 /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE87F7BE2BDBD97300A695C2 /* TabViewBootcamp.swift */; };
@@ -148,6 +150,8 @@
 		CE7518E52BD4439900B4FD5D /* ActionSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBootcamp.swift; sourceTree = "<group>"; };
 		CE76AD732BD95A5800CA6FC8 /* TextFieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldBootcamp.swift; sourceTree = "<group>"; };
 		CE76AD752BD9624200CA6FC8 /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
+		CE7757572BED1A4C00E6A6F9 /* ContentUnavailableViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentUnavailableViewBootcamp.swift; sourceTree = "<group>"; };
+		CE7757592BED1CB700E6A6F9 /* ControlGroupMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlGroupMenuBootcamp.swift; sourceTree = "<group>"; };
 		CE7C61902BC2EABB004822DB /* ScrollBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollBootcamp.swift; sourceTree = "<group>"; };
 		CE87F7BC2BDBCD4E00A695C2 /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
 		CE87F7BE2BDBD97300A695C2 /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
@@ -292,6 +296,8 @@
 				CE31C0AD2BECFEA4007FB587 /* ViewThatFitsBootcamp.swift */,
 				CE31C0AF2BED01BF007FB587 /* NavigationSplitViewBootcamp.swift */,
 				CE31C0B12BED10AE007FB587 /* GridViewBootcamp.swift */,
+				CE7757572BED1A4C00E6A6F9 /* ContentUnavailableViewBootcamp.swift */,
+				CE7757592BED1CB700E6A6F9 /* ControlGroupMenuBootcamp.swift */,
 				CE5DB8D02BB5FA880081B4A2 /* Assets.xcassets */,
 				CE5DB8D22BB5FA880081B4A2 /* Preview Content */,
 			);
@@ -422,6 +428,7 @@
 				CE0A9D352BB88B500059C22B /* GradiantsBootcamp.swift in Sources */,
 				CE510C232BE3BA9E000C3236 /* ListSwipeActionsBootcamp.swift in Sources */,
 				CEE731622BDAB7A600602302 /* PickerBootcamp.swift in Sources */,
+				CE7757582BED1A4C00E6A6F9 /* ContentUnavailableViewBootcamp.swift in Sources */,
 				CE39E8D52BE2441C0084CBF6 /* IntroView.swift in Sources */,
 				CE87F7C32BDBEA1500A695C2 /* DocumentationBootcamp.swift in Sources */,
 				CEF48C732BBED3CF0089BA4A /* InitializerBootcamp.swift in Sources */,
@@ -436,6 +443,7 @@
 				CECB56922BB74A5000116B0B /* ColorsBootcamp.swift in Sources */,
 				CE58A5BD2BD3020700EDCF03 /* NavigationViewBootcamp.swift in Sources */,
 				CEE731642BDAD20700602302 /* ColorPickerBootcamp.swift in Sources */,
+				CE77575A2BED1CB700E6A6F9 /* ControlGroupMenuBootcamp.swift in Sources */,
 				CE4EFF8F2BB9F57E00EC71B6 /* StackOnStack.swift in Sources */,
 				CE31C0B02BED01BF007FB587 /* NavigationSplitViewBootcamp.swift in Sources */,
 				CE8D95E72BB98C650018CDCC /* BackgroundOverlayBootcamp.swift in Sources */,
