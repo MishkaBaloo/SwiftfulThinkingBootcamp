@@ -24,6 +24,8 @@
 		CE2284CD2BE02DF900EC5DB3 /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2284CC2BE02DF900EC5DB3 /* EnvironmentObjectBootcamp.swift */; };
 		CE2284CF2BE038DE00EC5DB3 /* AppStorageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2284CE2BE038DE00EC5DB3 /* AppStorageBootcamp.swift */; };
 		CE2F83D02BD3CD7200B1662B /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2F83CF2BD3CD7200B1662B /* ListBootcamp.swift */; };
+		CE31C0AE2BECFEA4007FB587 /* ViewThatFitsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31C0AD2BECFEA4007FB587 /* ViewThatFitsBootcamp.swift */; };
+		CE31C0B02BED01BF007FB587 /* NavigationSplitViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31C0AF2BED01BF007FB587 /* NavigationSplitViewBootcamp.swift */; };
 		CE3862982BD29B5800B7AEF7 /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3862972BD29B5800B7AEF7 /* TernaryBootcamp.swift */; };
 		CE38629A2BD29FA400B7AEF7 /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3862992BD29FA400B7AEF7 /* AnimationBootcamp.swift */; };
 		CE38629C2BD2A5A000B7AEF7 /* AnimationTimingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE38629B2BD2A5A000B7AEF7 /* AnimationTimingBootcamp.swift */; };
@@ -105,6 +107,8 @@
 		CE2284CC2BE02DF900EC5DB3 /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
 		CE2284CE2BE038DE00EC5DB3 /* AppStorageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootcamp.swift; sourceTree = "<group>"; };
 		CE2F83CF2BD3CD7200B1662B /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
+		CE31C0AD2BECFEA4007FB587 /* ViewThatFitsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFitsBootcamp.swift; sourceTree = "<group>"; };
+		CE31C0AF2BED01BF007FB587 /* NavigationSplitViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSplitViewBootcamp.swift; sourceTree = "<group>"; };
 		CE3862972BD29B5800B7AEF7 /* TernaryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
 		CE3862992BD29FA400B7AEF7 /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
 		CE38629B2BD2A5A000B7AEF7 /* AnimationTimingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp.swift; sourceTree = "<group>"; };
@@ -283,6 +287,8 @@
 				CE569F902BE6E2D800C1F996 /* MenuBootcamp.swift */,
 				CE569F922BE6E3BB00C1F996 /* NativePopoverBootcamp.swift */,
 				CE083CBD2BE82AB800C29EC5 /* AnyLayoutBootcamp.swift */,
+				CE31C0AD2BECFEA4007FB587 /* ViewThatFitsBootcamp.swift */,
+				CE31C0AF2BED01BF007FB587 /* NavigationSplitViewBootcamp.swift */,
 				CE5DB8D02BB5FA880081B4A2 /* Assets.xcassets */,
 				CE5DB8D22BB5FA880081B4A2 /* Preview Content */,
 			);
@@ -405,6 +411,7 @@
 				CE7518E42BD41D0100B4FD5D /* AlertsBootcamp.swift in Sources */,
 				CE38629C2BD2A5A000B7AEF7 /* AnimationTimingBootcamp.swift in Sources */,
 				CE8EA7352BC4721100A92E56 /* GridBootcamp.swift in Sources */,
+				CE31C0AE2BECFEA4007FB587 /* ViewThatFitsBootcamp.swift in Sources */,
 				CE39E8D72BE246620084CBF6 /* OnboardingView.swift in Sources */,
 				CE037BE02BD2CB0D00AAA012 /* SheetsBootcamp.swift in Sources */,
 				CE510C1B2BE394A4000C3236 /* AsyncImageBoocamp.swift in Sources */,
@@ -426,6 +433,7 @@
 				CE58A5BD2BD3020700EDCF03 /* NavigationViewBootcamp.swift in Sources */,
 				CEE731642BDAD20700602302 /* ColorPickerBootcamp.swift in Sources */,
 				CE4EFF8F2BB9F57E00EC71B6 /* StackOnStack.swift in Sources */,
+				CE31C0B02BED01BF007FB587 /* NavigationSplitViewBootcamp.swift in Sources */,
 				CE8D95E72BB98C650018CDCC /* BackgroundOverlayBootcamp.swift in Sources */,
 				CE957FA12BBB54340093B03A /* PaddingBotcamp.swift in Sources */,
 				CE21E81A2BC9A539008B73AA /* ButtonsBootcamp.swift in Sources */,
